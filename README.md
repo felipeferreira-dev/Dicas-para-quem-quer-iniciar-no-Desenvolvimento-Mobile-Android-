@@ -3,7 +3,7 @@
 
 Uma das melhores formas de aprender e estar sempre desenvolvendo é tentar replicar ***técnicas de sucesso*** que outros programadores já desenvolveram, trazer essas idéias para os seus projetos e implementar novas idéias.
 
-* Aqui está uma dica de aplicativo versão "remake" [NetflixApp](https://github.com/felipeferreira-dev/NetflixApp) que eu desenvolvi, durante o curso "*Android Express*" do @tiago-aguiar (Recomendo fortemente este curso especializado sobre Android)
+* Aqui está uma dica de aplicativo versão "remake" [NetflixApp](https://github.com/felipeferreira-dev/NetflixApp) que eu desenvolvi, durante o curso "*Android Express*" do [Tiago Aguiar](https://github.com/tiago-aguiar) (Recomendo fortemente este curso especializado sobre Android)
 
 Aos poucos vamos nos acostumando com o desenvolvimento de aplicativos, existe um padrão na hora de desenvolver (isso a gente só consegue perceber, quando estamos programando).
 No começo é sempre tudo muito difícil, mais aos poucos vamos nos acostumando, e percebendo que é como um "*Lego*", tudo vai se encaixando perfeitamente.
