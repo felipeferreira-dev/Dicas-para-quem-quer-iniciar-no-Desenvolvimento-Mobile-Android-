@@ -10,7 +10,7 @@ No começo é sempre tudo muito difícil, mais aos poucos vamos nos acostumando,
 ***
 ## Conselho
 Inicialize um pequeno projeto, para entender como a IDE que você está utilizando funciona, no meu caso eu utilizo o **Android Studio**, já estou a meses utilizando e ainda aprendendo novas funções!
-Explore os tamplates que o _Android Studio_ oferece na criação de um novo projeto, faça layouts mais simples no ```XML``` para entender como funcionam as distribuições de elementos na tela com:
+Explore os tamplates que o _``Android Studio``_ oferece na criação de um novo projeto, faça layouts mais simples no ```XML``` para entender como funcionam as distribuições de elementos na tela com:
 ```ConstraintLayout, FrameLayout, LinearLayout, RelativeLayout, etc```
 
 Depois veja como os elementos visuais do ```XML``` se comunicam com a parte lógica! Se tratando de lógica, você terá que se aprofundar nas linguagens ```Java```, ```C``` ou ```Kotlin``` e quando eu digo "se aprofundar" é pra realmente desbravar todos os conceitos de programação, e aqui vai uma dica, explore como as coisas funcionam nativamente, não se prenda a utilizar ```FrameWorks```, primeiro entenda como as coisas funcionam "*por baixo dos panos*" e depois pense em desenvolver com os ```FrameWorks```! 
